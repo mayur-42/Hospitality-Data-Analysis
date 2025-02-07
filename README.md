@@ -4,7 +4,7 @@ Welcome to the **Hospitality Data Analysis** project! This repository presents a
 
 ---
 
-![Home SS](https://github.com/user-attachments/assets/e30cc8ac-64ec-42b4-b1cd-51ca43638824)
+
 
 ---
 ## 🌟 **Problem Statement**
